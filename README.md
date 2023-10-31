@@ -5,4 +5,4 @@ This is a repository where I have submitted the project's code base. The project
 TechStack used:
 NextJS
 Firebase
-React
+ReactJS
